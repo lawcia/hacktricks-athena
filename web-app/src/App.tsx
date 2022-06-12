@@ -2,23 +2,23 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import { MentorsPage } from "./pages/MentorsPage";
-import { Footer } from "./components/common/Footer";
-import { Header } from "./components/common/Header";
+import LandingPage from "./pages/LandingPage";
+import FindAMentor from "./components/FindAMentor";
+import { MentorDetailPage } from "./pages/MentorDetailPage";
+
 
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        {/* <nav>
-          <Link to="/mentors">Mentors</Link>
-        </nav> */}
-        <Header />
         <Routes>
           <Route path="/mentors" element={<MentorsPage />} />
+          <Route path="/find-a-mentor" element={<FindAMentor />} />
+          <Route path="/mentors" element={<MentorsPage />} />
+          <Route path="/mentors/:id" element={<MentorDetailPage />} />
+          <Route path="/" element={<LandingPage />} />
         </Routes>
-        <Footer />
       </div>
-      ;
     </BrowserRouter>
   );
 }
