@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "src": "https://eu.ui-avatars.com/api/?name=Simeon+Donald&size=250",
+    "name": "Simeon",
+    "surname": "Donald",
+    "email": "simeon.donald@gmail.com",
+    "location": "London, UK",
+    "industry": "Beauty",
+    "yearsOfExperience": 2,
+    "jobTitle": "Hair Stylist"
+  },
+  {
+    "id": 2,
+    "src": "https://eu.ui-avatars.com/api/?name=David+Peterson&size=250",
+    "name": "David",
+    "surname": "Peterson",
+    "email": "david.peterson@gmail.com",
+    "location": "London, UK",
+    "industry": "Hair",
+    "yearsOfExperience": 7,
+    "jobTitle": "Influencer"
+  },
+  {
+    "id": 3,
+    "src": "https://eu.ui-avatars.com/api/?name=Lucy+Brook&size=250",
+    "name": "Lucy",
+    "surname": "Brook",
+    "email": "lucy.brook@gmail.com",
+    "location": "Manchester, UK",
+    "industry": "Beauty",
+    "yearsOfExperience": 4,
+    "jobTitle": "CEO"
+  },
+  {
+    "id": 4,
+    "src": "https://eu.ui-avatars.com/api/?name=Penelope+Johnson&size=250",
+    "name": "Penelope",
+    "surname": "Johnson",
+    "email": "penelope.johnson@gmail.com",
+    "location": "Cambridge, UK",
+    "industry": "Beauty",
+    "yearsOfExperience": 3,
+    "jobTitle": "Manager"
+  },
+  {
+    "id": 5,
+    "src": "https://eu.ui-avatars.com/api/?name=Nancy+Drew&size=250",
+    "name": "Nancy",
+    "surname": "Drew",
+    "email": "nancy.drew@gmail.com",
+    "location": "Royston, UK",
+    "industry": "Beauty",
+    "yearsOfExperience": 7,
+    "jobTitle": "Nail technician"
+  },
+  {
+    "id": 6,
+    "src": "https://eu.ui-avatars.com/api/?name=John+Rock&size=250",
+    "name": "John",
+    "surname": "Rock",
+    "email": "john.rock@gmail.com",
+    "location": "Royston, UK",
+    "industry": "Education",
+    "yearsOfExperience": 15,
+    "jobTitle": "Tutor"
+  },
+  {
+    "id": 7,
+    "src": "https://eu.ui-avatars.com/api/?name=Jaden+Smith&size=250",
+    "name": "Jaden",
+    "surname": "Smith",
+    "email": "jaden.smith@gmail.com",
+    "location": "Royston, UK",
+    "industry": "Hair",
+    "yearsOfExperience": 7,
+    "jobTitle": "Hair Stylist"
+  },
+  {
+    "id": 8,
+    "src": "https://eu.ui-avatars.com/api/?name=Lora+Flower&size=250",
+    "name": "Lora",
+    "surname": "Flower",
+    "email": "lora.flower@gmail.com",
+    "location": "London, UK",
+    "industry": "Hair",
+    "yearsOfExperience": 7,
+    "jobTitle": "Barber"
+  }
+]
